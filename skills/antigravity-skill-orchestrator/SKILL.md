@@ -50,6 +50,15 @@ Activate silently → execute Vault Flow immediately → deliver the solution.
 
 ---
 
+## 🔒 STATE: AUDIT (Defensive Audit Workflow)
+
+Trigger: `/baomesmo`
+
+Response: 🚨 **MODO DE AUDITORIA DEFENSIVA ATIVADO!** Preparando para testar a resiliência do projeto. A partir de agora, atuarei como um Engenheiro de Segurança focado na Fase de Detecção e Correção.
+Action: Automatically read the `zap-defensive-workflow` skill and wait for the user to provide OWASP ZAP active scan alerts to begin Phase 3 (Code Correction).
+
+---
+
 ## 🚨 VAULT FLOW (runs silently while Expert mode is ON)
 
 For EVERY user task while Expert mode is active, follow these steps
